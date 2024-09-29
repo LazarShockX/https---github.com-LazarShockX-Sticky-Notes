@@ -1,8 +1,19 @@
-# React + Vite
+# 📝 Sticky Notes 
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple and intuitive sticky notes app built with React and powered by Vite, with Appwrite as the backend. This app allows users to create, edit, and delete virtual sticky notes, making it easy to organize and manage ideas, tasks, and reminders.
 
-Currently, two official plugins are available:
+<img width="1132" alt="Screenshot 2024-09-29 at 09 31 16" src="https://github.com/user-attachments/assets/9c979dee-75ae-4cbd-be01-efe823dc5310">
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+# Features
+- ✏️ **CRUD Notes**: Easily add new sticky notes, update the content, and remove notes.
+- 🖱️ **Draggable Notes**: Drag and drop notes anywhere on the screen.
+- 💾 **Autosave Changes**: Changes to note content and position are automatically saved without explicitly doing so.
+- 🎨 **Color Picker**: Change note colors at any time with a color picker.
+- ⚡ **Fast Performance**: Built with Vite for fast and responsive development.
+- 🔐 **Appwrite Backend**: Appwrite handles database storage, ensuring that notes are saved securely and persist across sessions.
+
+# Tech Stack
+- **React**: UI for building user interfaces.
+- **Vite**: Next-generation front-end tooling for fast development and build processes.
+- **Appwrite**: A self-hosted backend server for handling user authentication, database management, and API requests.
+- **CSS Modules**: Modular and scoped CSS for styling components.
