@@ -7,7 +7,7 @@ A simple and intuitive sticky notes app built with React and powered by Vite, wi
 # Features
 - ✏️ **CRUD Notes**: Easily add new sticky notes, update the content, and remove notes.
 - 🖱️ **Draggable Notes**: Drag and drop notes anywhere on the screen.
-- 💾 **Autosave Changes**: Changes to note content and position are automatically saved without explicitly doing so.
+- 💾 **Autosave Changes**: Changes to note content and position are automatically saved.
 - 🎨 **Color Picker**: Change note colors at any time with a color picker.
 - ⚡ **Fast Performance**: Built with Vite for fast and responsive development.
 - 🔐 **Appwrite Backend**: Appwrite handles database storage, ensuring that notes are saved securely and persist across sessions.
